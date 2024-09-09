@@ -1,6 +1,6 @@
 # Hi there, I'm Yaro! 
 
-![GIF](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlyZDNkNmI3OHFubno4OWhrODJkN3QyMnQwMDAxbDhpeWZyMGVicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp)
 
 ## About Me 
 
