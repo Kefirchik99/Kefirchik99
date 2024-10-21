@@ -6,9 +6,6 @@
 
 Im a self-taught front-end developer focused on sharing my journey to become a better dev.
 
-- 🌱 Currently learning: **React JS**
-
-
 ## My Skills 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
